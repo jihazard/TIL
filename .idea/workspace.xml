@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/stream_study/src/streamPipeline/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream_study/src/filterling/FilteringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream_study/src/mapping/AsDoubleStreamAndBoxedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream_study/src/mapping/FlatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream_study/src/mapping/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/stream_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream_study/stream_01.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stream_study/src/stream_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/stream_study/src/stream_01.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,19 +24,67 @@
         <entry file="file://$PROJECT_DIR$/stream_study/src/stream_01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="331">
-                <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+              <first_editor relative-caret-position="350">
+                <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamPipelineExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java">
+      <file leaf-file-name="FlatMapExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream_study/src/mapping/FlatMapExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
-              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <caret line="21" column="24" selection-start-line="21" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream_study/src/mapping/MapExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AsDoubleStreamAndBoxedExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stream_study/src/mapping/AsDoubleStreamAndBoxedExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilteringExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream_study/src/filterling/FilteringExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="97" lean-forward="true" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamPipelineExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,18 +104,6 @@
                 <element signature="e#390#391#0" expanded="true" />
                 <element signature="e#505#506#0" expanded="true" />
                 <element signature="e#531#532#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FromCollectionExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream_study/src/streamToCollection/FromCollectionExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,38 +137,6 @@
               <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream_study/src/streamToCollection/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IteratorVsStreamCode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream_study/src/IteratorVsStreamCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream_study/src/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,9 +178,13 @@
         <option value="$PROJECT_DIR$/stream_study/src/streamToCollection/FromArrayExample.java" />
         <option value="$PROJECT_DIR$/stream_study/src/streamToCollection/FromIntRangeExample.java" />
         <option value="$PROJECT_DIR$/stream_study/src/streamToCollection/FromFileContentExample.java" />
-        <option value="$PROJECT_DIR$/stream_study/src/stream_01.md" />
         <option value="$PROJECT_DIR$/stream_study/src/streamPipeline/Member.java" />
         <option value="$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java" />
+        <option value="$PROJECT_DIR$/stream_study/src/filterling/FilteringExample.java" />
+        <option value="$PROJECT_DIR$/stream_study/src/stream_01.md" />
+        <option value="$PROJECT_DIR$/stream_study/src/mapping/FlatMapExample.java" />
+        <option value="$PROJECT_DIR$/stream_study/src/mapping/MapExample.java" />
+        <option value="$PROJECT_DIR$/stream_study/src/mapping/AsDoubleStreamAndBoxedExample.java" />
       </list>
     </option>
   </component>
@@ -215,13 +227,7 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="stream_study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="streamPipeline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stream_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="streamToCollection" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,47 +263,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamPipelineExample">
-    <configuration name="FromArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamToCollection.FromArrayExample" />
+  <component name="RunManager" selected="Application.AsDoubleStreamAndBoxedExample">
+    <configuration name="AsDoubleStreamAndBoxedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapping.AsDoubleStreamAndBoxedExample" />
       <module name="stream_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamToCollection.*" />
+          <option name="PATTERN" value="mapping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FromCollectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamToCollection.FromCollectionExample" />
+    <configuration name="FilteringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filterling.FilteringExample" />
       <module name="stream_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamToCollection.*" />
+          <option name="PATTERN" value="filterling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FromFileContentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamToCollection.FromFileContentExample" />
+    <configuration name="FlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapping.FlatMapExample" />
       <module name="stream_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamToCollection.*" />
+          <option name="PATTERN" value="mapping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FromIntRangeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamToCollection.FromIntRangeExample" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapping.MapExample" />
       <module name="stream_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamToCollection.*" />
+          <option name="PATTERN" value="mapping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,19 +361,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FromCollectionExample" />
-      <item itemvalue="Application.FromArrayExample" />
-      <item itemvalue="Application.FromIntRangeExample" />
-      <item itemvalue="Application.FromFileContentExample" />
       <item itemvalue="Application.StreamPipelineExample" />
+      <item itemvalue="Application.FilteringExample" />
+      <item itemvalue="Application.FlatMapExample" />
+      <item itemvalue="Application.MapExample" />
+      <item itemvalue="Application.AsDoubleStreamAndBoxedExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsDoubleStreamAndBoxedExample" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.FlatMapExample" />
+        <item itemvalue="Application.FilteringExample" />
         <item itemvalue="Application.StreamPipelineExample" />
-        <item itemvalue="Application.FromFileContentExample" />
-        <item itemvalue="Application.FromIntRangeExample" />
-        <item itemvalue="Application.FromArrayExample" />
-        <item itemvalue="Application.FromCollectionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -382,12 +388,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526735075307</updated>
       <workItem from="1526735081896" duration="4000" />
-      <workItem from="1526735301579" duration="3066000" />
+      <workItem from="1526735301579" duration="5841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3070000" />
+    <option name="totallyTimeSpent" value="5845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -395,7 +401,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32961783" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -403,8 +409,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29936305" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32961783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29936305" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32961783" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
@@ -521,16 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stream_study/src/stream_01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="331">
-            <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stream_study/src/streamPipeline/Member.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -548,8 +544,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream_study/src/filterling/FilteringExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="97" lean-forward="true" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream_study/src/stream_01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="350">
+            <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream_study/src/mapping/FlatMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <caret line="21" column="24" selection-start-line="21" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream_study/src/mapping/MapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream_study/src/mapping/AsDoubleStreamAndBoxedExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

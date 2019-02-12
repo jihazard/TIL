@@ -25,18 +25,17 @@ public class Lesson12915 {
     public static void main(String[] args) {
         String[] temp = {"sun", "bed", "car","lot"};
         System.out.println(solution(temp,1));
-        System.out.println(sol2(temp,1));
+       // System.out.println(sol2(temp,1));
     }
 
     private static String[] solution(String[] strings, int n) {
-        Arrays.sort(strings);
-        Arrays.sort(strings, new Comparator<String>(){
+        Arrays.asList(strings);
+
+        Arrays.sort(strings, new Comparator<String>() {
             @Override
-            public int compare(String s1, String s2){
-                System.out.println(s1+"//" +s2);
-                System.out.println(s1.charAt(n) +"//"+ s2.charAt(n));
-                if(s1.charAt(n) > s2.charAt(n)) return 1;
-                else if(s1.charAt(n) < s2.charAt(n)) return -1;
+            public int compare(String o1, String o2) {
+                if(o1.charAt(n) > o2.charAt(n)) return 1;
+                else if(o1.charAt(n) < o2.charAt(n)) return -1;
                 else return 0;
             }
         });

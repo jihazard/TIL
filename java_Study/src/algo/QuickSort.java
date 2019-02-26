@@ -3,13 +3,13 @@ package algo;
 public class QuickSort {
     public static void main(String[] args) {
         int number = 10;
-        int[] value = {10,9,3,7,6,5,4,8,2,1} ;
+        int[] value={10,9,6,7,1,2,3,8};
         for (int x : value
         ) {
             System.out.print(x + ",");
         }
 
-        quickSort(value,0, number-1);
+        quickSort(value,0, value.length-1);
         for (int x : value
              ) {
             System.out.print(x + ",");

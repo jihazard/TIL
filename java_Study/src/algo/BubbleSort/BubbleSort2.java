@@ -7,7 +7,7 @@ public class BubbleSort2 {
         bubbleSort(data);
     }
 
-    private static void bubbleSort(int[] data) {
+    private static void bubbleSort(int[]   data) {
         int temp;
 
         for (int i = 0; i < data.length ; i++) {

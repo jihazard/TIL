@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java_Study/src/BaekJoon/Sort2750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/QuickSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/QuickSort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/Fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_Study/src/algo/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/SelectionSort.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,21 +61,97 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort3.java">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="DataSheetView.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/DataSheetView.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+                <state relative-caret-position="513">
+                  <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/java_Study/src/BaekJoon/Sort2750.java">
+          <file leaf-file-name="Lesson12954.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/programmers/Lesson12954.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+                  <folding>
+                    <element signature="e#387#388#0" expanded="true" />
+                    <element signature="e#437#438#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/Fibonacci/Fibonacci.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SelectionSort2.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="76">
+                  <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="380">
-                  <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+                  <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="QuickSort4.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort4.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="QuickSort2.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort2.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="QuickSort3.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort3.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -73,12 +159,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort.java">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="BubbleSort2.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-142">
-                  <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+                <state relative-caret-position="456">
+                  <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
                 </state>
               </provider>
             </entry>
@@ -121,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stream_study/src/Student.java" />
         <option value="$PROJECT_DIR$/stream_study/src/streamToCollection/Student.java" />
         <option value="$PROJECT_DIR$/stream_study/src/streamToCollection/FromCollectionExample.java" />
         <option value="$PROJECT_DIR$/stream_study/src/streamToCollection/FromArrayExample.java" />
@@ -165,12 +250,14 @@
         <option value="$PROJECT_DIR$/java_Study/src/programmers/Lesson12954.java" />
         <option value="$PROJECT_DIR$/java_Study/src/programmers/Test.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/Test.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/BubbleSort.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/QuickSort2.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/QuickSort.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/QuickSort3.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/BaekJoon/Sort2750.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/QuickSort4.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort2.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/Fibonacci/Fibonacci.java" />
       </list>
     </option>
   </component>
@@ -179,6 +266,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="684" />
@@ -192,6 +282,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,6 +306,13 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="Fibonacci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Dp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,9 +325,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,112 +363,125 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sort2750">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="algo.BubbleSort.BubbleSort" />
       <module name="java_Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo.*" />
+          <option name="PATTERN" value="algo.QuickSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.QuickSort" />
+    <configuration name="BubbleSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.BubbleSort.BubbleSort2" />
       <module name="java_Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo.*" />
+          <option name="PATTERN" value="algo.BubbleSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="QuickSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.QuickSort2" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.Fibonacci.Fibonacci" />
       <module name="java_Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo.*" />
+          <option name="PATTERN" value="algo.Fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="QuickSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.QuickSort3" />
+    <configuration name="QuickSort4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.QuickSort.QuickSort4" />
       <module name="java_Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo.*" />
+          <option name="PATTERN" value="algo.QuickSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="Sort2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sort2750" />
+    <configuration name="SelectionSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.SelectionSort.SelectionSort2" />
       <module name="java_Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="PATTERN" value="algo.SelectionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.QuickSort2" />
-      <item itemvalue="Application.QuickSort3" />
-      <item itemvalue="Application.Sort2750" />
+      <item itemvalue="Application.QuickSort4" />
+      <item itemvalue="Application.SelectionSort2" />
+      <item itemvalue="Application.BubbleSort2" />
+      <item itemvalue="Application.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sort2750" />
-        <item itemvalue="Application.QuickSort3" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.QuickSort2" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.BubbleSort2" />
+        <item itemvalue="Application.SelectionSort2" />
+        <item itemvalue="Application.QuickSort4" />
         <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
@@ -395,81 +505,81 @@
       <workItem from="1549930895117" duration="16505000" />
       <workItem from="1550017382252" duration="5183000" />
       <workItem from="1550803946278" duration="4618000" />
-      <workItem from="1551175714803" duration="7315000" />
+      <workItem from="1551659986939" duration="390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57876000" />
+    <option name="totallyTimeSpent" value="63631000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25386667" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="CheckStyle" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49947917" visible="true" weight="0.29533115" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28301886" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.2981132" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32735425" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Key Promoter X" order="9" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.2981132" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49947917" weight="0.29533115" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28301886" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25364584" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32735425" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info id="Learn" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25386667" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49947917" visible="true" weight="0.29533115" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="CheckStyle" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49947917" visible="true" weight="0.29533115" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.28301886" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.2981132" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32735425" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Key Promoter X" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25386667" />
+      <window_info id="Learn" order="3" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,26 +589,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stream_study/src/Student.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stream_study/src/streamToCollection/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stream_study/src/streamToCollection/FromCollectionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stream_study/src/linedata.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://C:/Java/src.zip!/java/io/BufferedReader.java" />
     <entry file="file://$PROJECT_DIR$/stream_study/src/stream_01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -735,9 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,9 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,59 +874,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/DataSheetView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" lean-forward="true" selection-end-line="1" />
+        <state relative-caret-position="513">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort2Exampel.java">
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort2Exampel.java" />
+    <entry file="file://$PROJECT_DIR$/java_Study/src/BaekJoon/Sort2750.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort2.java">
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="39" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort3.java">
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/BaekJoon/Sort2750.java">
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/Fibonacci/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>

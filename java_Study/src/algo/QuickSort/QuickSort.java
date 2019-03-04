@@ -1,4 +1,4 @@
-package algo;
+package algo.QuickSort;
 
 public class QuickSort {
     public static void main(String[] args) {

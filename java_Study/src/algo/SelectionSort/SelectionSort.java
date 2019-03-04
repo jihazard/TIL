@@ -1,4 +1,4 @@
-package algo;
+package algo.SelectionSort;
 /*선택정렬*/
 public class SelectionSort {
     public static void main(String[] args) {

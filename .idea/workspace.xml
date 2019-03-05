@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/example/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,20 +76,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Main2.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/java_Study/src/algo/example/Main2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+                <state relative-caret-position="285">
+                  <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SelectionSort2.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java">
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="76">
-                  <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
+                  <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -191,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stream_study/src/streamPipeline/Member.java" />
         <option value="$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java" />
         <option value="$PROJECT_DIR$/stream_study/src/filterling/FilteringExample.java" />
         <option value="$PROJECT_DIR$/stream_study/src/stream_01.md" />
@@ -242,6 +240,7 @@
         <option value="$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/example/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/example/Main2.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java" />
       </list>
     </option>
   </component>
@@ -290,6 +289,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
@@ -347,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo.convert10to2.Main" />
       <module name="java_Study" />
@@ -381,13 +387,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.manyTimeValue.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.Factorial.Main" />
       <module name="java_Study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo.manyTimeValue.*" />
+          <option name="PATTERN" value="algo.Factorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,19 +460,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -491,12 +497,12 @@
       <workItem from="1550803946278" duration="4618000" />
       <workItem from="1551659986939" duration="4974000" />
       <workItem from="1551680625381" duration="6000" />
-      <workItem from="1551747313526" duration="7568000" />
+      <workItem from="1551747313526" duration="9383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75789000" />
+    <option name="totallyTimeSpent" value="77604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -712,8 +718,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java_Study/src/algo/example/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>

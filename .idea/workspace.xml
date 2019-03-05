@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/sumOfDigit/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,20 +84,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+                <state relative-caret-position="133">
+                  <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java">
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/sumOfDigit/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+                <state relative-caret-position="247">
+                  <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
@@ -190,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java" />
         <option value="$PROJECT_DIR$/stream_study/src/filterling/FilteringExample.java" />
         <option value="$PROJECT_DIR$/stream_study/src/stream_01.md" />
         <option value="$PROJECT_DIR$/stream_study/src/mapping/FlatMapExample.java" />
@@ -241,6 +239,7 @@
         <option value="$PROJECT_DIR$/java_Study/src/algo/example/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/example/Main2.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/sumOfDigit/Main.java" />
       </list>
     </option>
   </component>
@@ -288,14 +287,14 @@
               <item name="java_Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
+              <item name="sumOfDigit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
@@ -353,18 +352,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.convert10to2.Main" />
-      <module name="java_Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo.convert10to2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo.BigCharToSmallChar.Main" />
       <module name="java_Study" />
@@ -394,6 +382,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algo.Factorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.sumOfDigit.Main" />
+      <module name="java_Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.sumOfDigit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -460,19 +459,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -497,12 +496,12 @@
       <workItem from="1550803946278" duration="4618000" />
       <workItem from="1551659986939" duration="4974000" />
       <workItem from="1551680625381" duration="6000" />
-      <workItem from="1551747313526" duration="9383000" />
+      <workItem from="1551747313526" duration="9992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77604000" />
+    <option name="totallyTimeSpent" value="78213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -517,11 +516,11 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49947917" visible="true" weight="0.29528302" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49947917" weight="0.29528302" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28301886" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28301886" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25364584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25364584" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -725,8 +724,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/sumOfDigit/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>

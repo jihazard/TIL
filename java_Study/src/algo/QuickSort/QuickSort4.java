@@ -14,8 +14,8 @@ public class QuickSort4 {
         int pivot = data[(start+end)/2];
 
         do {
-            while(data[left] < pivot) left++;
-            while(data[right] > pivot) right--;
+            while(data[left] <= pivot) left++;
+            while(data[right] >= pivot) right--;
 
             if(left<=right){
                 int temp = data[left];

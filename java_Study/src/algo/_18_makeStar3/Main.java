@@ -1,5 +1,5 @@
 package algo._18_makeStar3;
-
+//별만들기 3
 public class Main {
     public static void main(String[] args) {
         int n = 5;

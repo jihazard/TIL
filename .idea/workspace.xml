@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/_16_makeStar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_Study/src/algo/_17_makeStar2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_16_makeStar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Study/algo/_16_makeStar/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +18,6 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/convert10to2/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main.java">
               <provider selected="true" editor-type-id="text-editor">
@@ -98,11 +90,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_16_makeStar/Main.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="209">
                   <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_17_makeStar2/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
                 </state>
               </provider>
             </entry>
@@ -149,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/C01_1.java" />
         <option value="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/C01_1_exercise.java" />
         <option value="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/Median.java" />
         <option value="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/al01_01/Median.java" />
@@ -200,6 +200,7 @@
         <option value="$PROJECT_DIR$/java_Study/src/algo/_14_countNum/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/_16_makeStar/Main.java" />
+        <option value="$PROJECT_DIR$/java_Study/src/algo/_17_makeStar2/Main.java" />
       </list>
     </option>
   </component>
@@ -212,7 +213,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="684" />
     <option name="y" value="38" />
     <option name="width" value="1936" />
@@ -276,6 +277,13 @@
               <item name="java_Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="_17_makeStar2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
               <item name="BigCharToSmallChar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -310,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo._10_numRec.Main" />
       <module name="java_Study" />
@@ -344,6 +352,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo._17_makeStar2.Main" />
+      <module name="java_Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo._17_makeStar2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo._16_makeStar.Main" />
       <module name="java_Study" />
@@ -351,17 +370,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algo._16_makeStar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.sumOfDigit.Main" />
-      <module name="java_Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo.sumOfDigit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,19 +425,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -455,15 +463,15 @@
       <workItem from="1551659986939" duration="4974000" />
       <workItem from="1551680625381" duration="6000" />
       <workItem from="1551747313526" duration="12638000" />
-      <workItem from="1551830474079" duration="3186000" />
+      <workItem from="1551830474079" duration="4532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84045000" />
+    <option name="totallyTimeSpent" value="85391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" />
@@ -809,6 +817,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_17_makeStar2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>

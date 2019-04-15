@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/DiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/FirstGuestDiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/NonFreshItemDiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/Strategy_pattern전략패턴.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/builderPattern.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/ExampleCode/finalCode/Calulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/ExampleCode/finalCode/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/ExampleCode/finalCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/ExampleCode/finalCode/service/DiscountStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/ExampleCode/finalCode/service/FirstGuestDiscountStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/ExampleCode/finalCode/service/NonFreshItemDiscountStrategy.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,143 +60,121 @@
     <session id="1915313110">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
-          <entry key="md" value="1" />
+          <entry key="java" value="27" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="27" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="885" />
-          <entry key="md" value="21" />
+          <entry key="java" value="2282" />
+          <entry key="md" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="885" />
-          <entry key="Markdown" value="21" />
+          <entry key="JAVA" value="2282" />
+          <entry key="Markdown" value="58" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/Strategy_pattern전략패턴.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/DiscountStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/FirstGuestDiscountStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/NonFreshItemDiscountStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#301#302#0" expanded="true" />
+                    <element signature="e#357#358#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/builderPattern.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="76">
+                    <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="190">
+                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="95">
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Product.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#215#216#0" expanded="true" />
+                    <element signature="e#247#248#0" expanded="true" />
+                    <element signature="e#276#277#0" expanded="true" />
+                    <element signature="e#309#310#0" expanded="true" />
+                    <element signature="e#347#348#0" expanded="true" />
+                    <element signature="e#376#377#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
         <option value="FxmlFile" />
-        <option value="Interface" />
-        <option value="Class" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -215,23 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/DataSheetView.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/MinMaxView.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/Client.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/programmers/Lesson12917.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/programmers/Lession12969.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/programmers/Lesson12948.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/programmers/Lesson12954.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/programmers/Test.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/Test.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/QuickSort4.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/Fibonacci/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort2.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/manyTimeValue/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/convert10to2/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main.java" />
@@ -266,6 +228,23 @@
         <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Main.java" />
         <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/CalulatorTest.java" />
         <option value="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Auth.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/AuthException.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Authenticator.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/DbAuth.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/DoorStatus.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/MotorStatus.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Door.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/HyundaiMotor.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Direction.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/State.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/NoCoinState.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Product.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Main.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/PersonInfo.java" />
+        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/builderPattern.md" />
       </list>
     </option>
   </component>
@@ -281,9 +260,10 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="349" />
+    <option name="x" value="1035" />
+    <option name="y" value="89" />
     <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -293,6 +273,22 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
+              <item name="study" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
+              <item name="study" type="616d4139:PackageViewModuleNode" />
+              <item name="DesignPattern" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,21 +311,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
-              <item name="study" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
-              <item name="study" type="616d4139:PackageViewModuleNode" />
-              <item name="DesignPattern" type="1f31426a:PackageElementNode" />
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="BuilderPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -343,12 +330,12 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554008014949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555329912786" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -361,6 +348,8 @@
       <recent name="DesignPattern.ExampleCode.finalCode" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="DesignPattern.TemplateMethodPattern_ExampleCode.otherExampleCode" />
+      <recent name="DesignPattern.TemplateMethodPattern_ExampleCode" />
       <recent name="DesignPattern.ExampleCode.finalCode" />
       <recent name="DesignPattern" />
     </key>
@@ -377,7 +366,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.BuilderPattern.Main" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPattern.ExampleCode.finalCode.Main" />
       <module name="study" />
@@ -399,20 +402,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algo._15_gugudan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo._18_makeStar3.Main2" />
-      <module name="java_Study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo._18_makeStar3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -471,19 +460,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Main4" />
       <item itemvalue="Application.Main2 (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main2 (1)" />
         <item itemvalue="Application.Main4" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -516,17 +505,19 @@
       <workItem from="1552129026292" duration="1000" />
       <workItem from="1552129167220" duration="958000" />
       <workItem from="1554006122582" duration="412000" />
-      <workItem from="1554006546034" duration="1901000" />
+      <workItem from="1554006546034" duration="5938000" />
+      <workItem from="1555328187302" duration="2366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93175000" />
+    <option name="totallyTimeSpent" value="99578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19733334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09813333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -537,14 +528,14 @@
       <window_info anchor="bottom" id="CheckStyle" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49947917" visible="true" weight="0.29641694" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49947917" weight="0.2931596" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2801303" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.27960527" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.2981132" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3264151" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -566,62 +557,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/Fibonacci/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/manyTimeValue/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -775,13 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Calculator.java" />
     <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/DiscountStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -811,30 +740,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Item.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Calculator.java" />
     <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/Strategy_pattern전략패턴.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -856,30 +763,99 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/CalulatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Auth.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/AuthException.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Authenticator.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/DbAuth.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/DoorStatus.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/MotorStatus.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Door.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Direction.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/HyundaiMotor.java" />
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/CalulatorTest.java">
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="76">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/NoCoinState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="133">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/PersonInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/builderPattern.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/MD/AOP/aop1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" beforeDir="false" afterPath="$PROJECT_DIR$/MD/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/refactoring/target/" />
@@ -52,39 +53,41 @@
     <session id="1915313110">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="30" />
-          <entry key="md" value="5" />
+          <entry key="java" value="33" />
+          <entry key="md" value="7" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="30" />
-          <entry key="Markdown" value="5" />
+          <entry key="JAVA" value="33" />
+          <entry key="Markdown" value="7" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2564" />
-          <entry key="md" value="2051" />
+          <entry key="java" value="2619" />
+          <entry key="md" value="2987" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2564" />
-          <entry key="Markdown" value="2051" />
+          <entry key="JAVA" value="2619" />
+          <entry key="Markdown" value="2987" />
         </counts>
       </usages-collector>
     </session>
@@ -131,12 +134,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MD/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="247">
-                <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+                <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MD/AOP/aop1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -182,11 +209,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/_14_countNum/Main.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/_16_makeStar/Main.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/_17_makeStar2/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/_18_makeStar3/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/_19_base/Main.java" />
         <option value="$PROJECT_DIR$/java_Study/src/algo/_18_makeStar3/Main2.java" />
@@ -233,6 +255,11 @@
         <option value="$PROJECT_DIR$/MD/removeControlFlag/removeControlFlag/RemoveControlFlag.md" />
         <option value="$PROJECT_DIR$/MD/removeControlFlag/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" />
         <option value="$PROJECT_DIR$/MD/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" />
+        <option value="$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md" />
+        <option value="$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/Person.java" />
+        <option value="$PROJECT_DIR$/refactoring/src/main/java/Employee.java" />
+        <option value="$PROJECT_DIR$/refactoring/src/main/java/EmployeeType.java" />
+        <option value="$PROJECT_DIR$/MD/AOP/aop1.md" />
       </list>
     </option>
   </component>
@@ -248,8 +275,8 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="474" />
-    <option name="y" value="84" />
+    <option name="x" value="989" />
+    <option name="y" value="4" />
     <option name="width" value="974" />
     <option name="height" value="1043" />
   </component>
@@ -259,8 +286,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
+              <item name="study" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
+              <item name="study" type="616d4139:PackageViewModuleNode" />
+              <item name="DesignPattern" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,12 +314,7 @@
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="MD" type="462c0819:PsiDirectoryNode" />
-              <item name="removeControlFlag" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MD" type="462c0819:PsiDirectoryNode" />
-              <item name="ReplaceNEstedConditonalwithGuardClauses" type="462c0819:PsiDirectoryNode" />
+              <item name="Replace ConditionalwithPolymorphism" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
@@ -297,21 +335,23 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
-              <item name="study" type="616d4139:PackageViewModuleNode" />
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
-              <item name="study" type="616d4139:PackageViewModuleNode" />
-              <item name="DesignPattern" type="1f31426a:PackageElementNode" />
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="BuilderPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,41 +365,43 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555755155034" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555931524399" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../whiteShip/WhiteShipLecture" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="SQL Dialects" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java" />
+      <recent name="DesignPattern.TemplateMethodPattern_ExampleCode.otherExampleCode" />
+      <recent name="DesignPattern.TemplateMethodPattern_ExampleCode" />
+      <recent name="DesignPattern.ExampleCode.finalCode" />
+      <recent name="DesignPattern" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="DesignPattern.ExampleCode.finalCode" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\study\TIL\MD" />
-      <recent name="C:\study\TIL\MD\removeControlFlag" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DesignPattern.ExampleCode.finalCode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\study\TIL\MD\Replace ConditionalwithPolymorphism" />
       <recent name="C:\study\TIL\refactoring\src\main\java\removeControlFlag" />
     </key>
     <key name="CreateBuilderDialog.RecentsKey">
       <recent name="DesignPattern.BuilderPattern" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="DesignPattern.TemplateMethodPattern_ExampleCode.otherExampleCode" />
-      <recent name="DesignPattern.TemplateMethodPattern_ExampleCode" />
-      <recent name="DesignPattern.ExampleCode.finalCode" />
-      <recent name="DesignPattern" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\TIL\MD" />
+      <recent name="C:\study\TIL\MD\removeControlFlag" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -519,18 +561,20 @@
       <workItem from="1555743035534" duration="32000" />
       <workItem from="1555750772010" duration="1107000" />
       <workItem from="1555751901520" duration="3352000" />
-      <workItem from="1555756097731" duration="246000" />
+      <workItem from="1555756097731" duration="280000" />
+      <workItem from="1555838766884" duration="1869000" />
+      <workItem from="1555929918685" duration="1452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106412000" />
+    <option name="totallyTimeSpent" value="109767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19253333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -570,34 +614,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/sumOfDigit/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_10_numRec/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_14_countNum/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_16_makeStar/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_17_makeStar2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -770,6 +786,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MD/removeControlFlag/RemoveControlFlag.java" />
     <entry file="file://$PROJECT_DIR$/MD/removeControlFlag/removeControlFlag/RemoveControlFlag.java" />
+    <entry file="file://$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/Person.java" />
+    <entry file="file://$PROJECT_DIR$/refactoring/src/main/java/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/refactoring/src/main/java/EmployeeType.java" />
     <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -792,13 +811,6 @@
     <entry file="file://$PROJECT_DIR$/refactoring/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MD/removeControlFlag/RemoveControlFlag.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -813,7 +825,34 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="247">
-            <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD/AOP/aop1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

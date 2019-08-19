@@ -2,8 +2,229 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD/JS/비동기처리/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/MD/JS/비동기처리/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/AOP/aop1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/JS/비동기처리/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/MD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/REFACTORING/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/REFACTORING/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD/REFACTORING/removeControlFlag/RemoveControlFlag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/.idea/java_Study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/java_Study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/out/production/HelloWorld/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/out/production/java_Study/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/out/production/java_Study/java_list_05/Ex5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/out/production/java_Study/java_list_05/Ex5_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/out/production/java_Study/java_list_05/Ex5_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/BaekJoon/Sort2750.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score/DataSheetView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score/MinMaxView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score/ScoreRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/DataSheetView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/MinMaxView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/ScoreRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/C9_OPSERVER/score_compl/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Dp/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/BubbleSort/BubbleSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/Factorial/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/Factorial/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/Fibonacci/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/QuickSort/QuickSort5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/SelectionSort/SelectionSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_10_numRec/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_10_numRec/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_14_countNum/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_16_makeStar/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_17_makeStar2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_18_makeStar3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_18_makeStar3/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_19_base/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/_20_369game/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/convert10to2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/example/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/manyTimeValue/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/algo/sumOfDigit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/cloudStudy/MudGame/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/cloudStudy/MudGame/PlayStation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/cloudStudy/TTT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/al01_01/C01_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/al01_01/C01_1_exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/al01_01/Median.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/al01_02/Al01_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/al01_02/Dowhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/al01_02/MakeStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/doitAlgo/chapter1/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/java_list_05/Ex5_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/java_list_05/Ex5_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/java_list_05/Ex5_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/java_list_05/ScoccerPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/java_list_05/Study.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/programmers/Lession12922.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/programmers/Lession12969.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/programmers/Lesson12906.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/programmers/Lesson12915.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/programmers/Lesson12917.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/programmers/Lesson12948.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_Study/src/programmers/Lesson12954.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/BaekJoon/Sort2750.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score/DataSheetView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score/MinMaxView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score/ScoreRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score_compl/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score_compl/DataSheetView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score_compl/MinMaxView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score_compl/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score_compl/ScoreRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Dp/C9_OPSERVER/score_compl/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/BigCharToSmallChar/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/BigCharToSmallChar/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/BigCharToSmallChar/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/BigCharToSmallChar/Main4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/BubbleSort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/BubbleSort/BubbleSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/Factorial/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/Factorial/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/Fibonacci/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort/QuickSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort/QuickSort3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort/QuickSort4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/QuickSort/QuickSort5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/SelectionSort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/SelectionSort/SelectionSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_10_numRec/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_10_numRec/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_14_countNum/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_15_gugudan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_15_gugudan/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_16_makeStar/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_17_makeStar2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_18_makeStar3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_18_makeStar3/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_19_base/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/_20_369game/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/convert10to2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/example/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/manyTimeValue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/algo/sumOfDigit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/cloudStudy/MudGame/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/cloudStudy/MudGame/PlayStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/cloudStudy/TTT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/doitAlgo/chapter1/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/doitAlgo/chapter1/al01_01/C01_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/doitAlgo/chapter1/al01_01/C01_1_exercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/doitAlgo/chapter1/al01_01/Median.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/doitAlgo/chapter1/al01_02/Al01_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/doitAlgo/chapter1/al01_02/Dowhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/doitAlgo/chapter1/al01_02/MakeStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/java_list_05/Ex5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/java_list_05/Ex5_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/java_list_05/Ex5_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/java_list_05/ScoccerPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/java_list_05/Study$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/java_list_05/Study.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lession12922.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lession12969.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lesson12906.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lesson12915$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lesson12915.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lesson12917.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lesson12948.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Study/programmers/Lesson12954.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/PACKAGE_NAME/IteratorVsStreamCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/PACKAGE_NAME/MapAndReduceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/PACKAGE_NAME/ParallelExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/filterling/FilteringExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/linedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/mapping/AsDoubleStreamAndBoxedExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/mapping/FlatMapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/mapping/MapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/streamPipeline/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/streamPipeline/StreamPipelineExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/streamToCollection/FromArrayExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/streamToCollection/FromCollectionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/streamToCollection/FromFileContentExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/streamToCollection/FromIntRangeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/streamToCollection/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream_study/stream_01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/Person$PersonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/Product$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/Product$ProductBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/BuilderPattern/builderPattern.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/StrategyPattern_ExampleCode/finalCode/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/StrategyPattern_ExampleCode/finalCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/DiscountStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/FirstGuestDiscountStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/NonFreshItemDiscountStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study/DesignPattern/Strategy_pattern전략패턴.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/refactoring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/refactoring/refactoring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/IteratorVsStreamCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/MapAndReduceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/ParallelExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/filterling/FilteringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/linedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/mapping/AsDoubleStreamAndBoxedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/mapping/FlatMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/mapping/MapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/streamPipeline/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/streamPipeline/StreamPipelineExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/streamToCollection/FromArrayExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/streamToCollection/FromCollectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/streamToCollection/FromFileContentExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/streamToCollection/FromIntRangeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/streamToCollection/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/src/stream_01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_study/stream_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/builderPattern.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/DiscountStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/FirstGuestDiscountStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/NonFreshItemDiscountStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/DesignPattern/Strategy_pattern전략패턴.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/study.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/refactoring/target/" />
@@ -13,129 +234,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="959414905">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="8" />
-          <entry key="vmoptions" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="8" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1039" />
-          <entry key="vmoptions" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1039" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1915313110">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="33" />
-          <entry key="md" value="7" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="33" />
-          <entry key="Markdown" value="7" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2619" />
-          <entry key="md" value="2987" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2619" />
-          <entry key="Markdown" value="2987" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1348496190">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="MD" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="MD" value="23" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Markdown" value="23" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,16 +251,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="C:/CODESQUAD" value="PREVIEW" />
-        <entry key="C:/codesqud/java-qna-atdd" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../java-lotto" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../java-qna-atdd" value="PREVIEW" />
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -219,20 +309,14 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="989" />
-    <option name="y" value="4" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1379" />
+    <option name="y" value="-72" />
     <option name="width" value="974" />
     <option name="height" value="1043" />
   </component>
@@ -242,24 +326,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MD" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -276,12 +343,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561553103189" />
@@ -414,13 +484,15 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -485,18 +557,17 @@
       <workItem from="1555838766884" duration="1869000" />
       <workItem from="1555929918685" duration="1452000" />
       <workItem from="1561551473305" duration="1455000" />
+      <workItem from="1566173141121" duration="1053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111222000" />
+    <option name="totallyTimeSpent" value="112275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1379" y="-72" width="974" height="1043" extended-state="0" />
     <layout>
-      <window_info id="DB Browser" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19893333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34282586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -504,8 +575,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="DB Browser" order="8" />
+      <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32899022" />
@@ -516,11 +587,12 @@
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27470142" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22442244" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.2981132" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3264151" />
-      <window_info anchor="right" id="Codota" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="DB Execution Console" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -531,13 +603,12 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Key Promoter X" order="9" />
+      <window_info anchor="right" id="Codota" order="10" />
+      <window_info anchor="right" id="SciView" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_18_makeStar3/Main.java">
@@ -708,16 +779,7 @@
     <entry file="file://$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/Person.java" />
     <entry file="file://$PROJECT_DIR$/refactoring/src/main/java/Employee.java" />
     <entry file="file://$PROJECT_DIR$/refactoring/src/main/java/EmployeeType.java" />
-    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/removeControlFlag/RemoveControlFlag.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="285">
-            <caret line="15" column="40" selection-end-line="98" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/removeControlFlag/RemoveControlFlag.md" />
     <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -725,16 +787,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/JS/비동기처리/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MD/JS/비동기처리/README.MD" />
     <entry file="file://$PROJECT_DIR$/MD/AOP/aop1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -745,26 +798,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md" />
+    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" />
     <entry file="file://$PROJECT_DIR$/refactoring/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -777,8 +812,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />

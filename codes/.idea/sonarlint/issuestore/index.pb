@@ -17,3 +17,11 @@ e
 5src/com/testok/www/goorm_level_1/CompliteMARATON.java,0\d\0de47d42f7c8c3713771e64001e913d1c8f4e262
 [
 +src/com/testok/www/goorm_level_1/Snake.java,4\a\4a2edb67b8dc4cd9e017fd7d7214df15a944d3b0
+\
+,src/com/testok/www/goorm_level_1/Number.java,7\2\7205ea7cd1e514293d8c87479272d68be0e0f936
+d
+4src/com/testok/www/goorm_level_1/SameNumberHate.java,2\0\20e229fe7b3bd9c4d08e50e5f0f167a22a8450f8
+^
+.src/com/testok/www/goorm_level_1/NXNumber.java,5\a\5a8f776872070400fce03029ec537cc3ddbc4135
+\
+,src/com/testok/www/goorm_level_1/Prices.java,8\b\8b1d23a113a4f70595f93a7282c0fe7ed1ccc2de

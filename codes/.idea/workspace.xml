@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5471328e-8efa-40a2-a1a6-8bd0e5217b4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/TIL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/NXNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Prices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0de47d42f7c8c3713771e64001e913d1c8f4e262" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0de47d42f7c8c3713771e64001e913d1c8f4e262" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20e229fe7b3bd9c4d08e50e5f0f167a22a8450f8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20e229fe7b3bd9c4d08e50e5f0f167a22a8450f8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a2edb67b8dc4cd9e017fd7d7214df15a944d3b0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a2edb67b8dc4cd9e017fd7d7214df15a944d3b0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a8f776872070400fce03029ec537cc3ddbc4135" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a8f776872070400fce03029ec537cc3ddbc4135" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66265f373f9974211ea493ec54d23bb9974fe39c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66265f373f9974211ea493ec54d23bb9974fe39c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7205ea7cd1e514293d8c87479272d68be0e0f936" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7205ea7cd1e514293d8c87479272d68be0e0f936" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b1d23a113a4f70595f93a7282c0fe7ed1ccc2de" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b1d23a113a4f70595f93a7282c0fe7ed1ccc2de" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abd26b42092b56737ea74ab8b5da3284379acece" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abd26b42092b56737ea74ab8b5da3284379acece" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffdbe7354a9eb39e8f5318613187b51b8bb9db9c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffdbe7354a9eb39e8f5318613187b51b8bb9db9c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Birdaeiou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Birdaeiou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/CompliteMARATON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/FindMinValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/FindMinValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Minsu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Minsu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/NXNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/NXNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Prices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Prices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Programmers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Programmers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/SameNumberHate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SameNumberHate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Stream_reg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Stream_reg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/ThreeSixNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/ThreeSixNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +54,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Programmers.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Programmers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+            <state relative-caret-position="-8">
+              <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,10 +66,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/CompliteMARATON.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/FindMinValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,56 +78,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Snake.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Minsu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="-8">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/SameNumberHate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#466#475#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/NXNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-301">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Prices.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SameNumberHate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,28 +102,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/zulu/zulu8.30.0.1-jdk8.0.172-win_i686/src.zip!/java/lang/Integer.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="58" column="7" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="7" />
+            <state relative-caret-position="-8">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/User.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/NXNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/ThreeSixNine.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Prices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,6 +143,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -174,6 +166,10 @@
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/SameNumberHate.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/NXNumber.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Prices.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Prices.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/Password.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/Username.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/UsernameTest.java" />
       </list>
     </option>
   </component>
@@ -189,8 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,19 +199,6 @@
               <item name="codes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="goorm_level_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="goorm_level_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -227,6 +210,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -242,6 +228,12 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.testok.www.goorm_level_1.regex" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.testok.www.goorm_level_1" />
     </key>
@@ -260,11 +252,11 @@
   </component>
   <component name="RunManager" selected="Application.Prices">
     <configuration name="NXNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.NXNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.NXNumber" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testok.www.goorm_level_1.*" />
+          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,11 +265,11 @@
       </method>
     </configuration>
     <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.Number" />
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Number" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testok.www.goorm_level_1.*" />
+          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,11 +278,11 @@
       </method>
     </configuration>
     <configuration name="Prices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.Prices" />
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Prices" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testok.www.goorm_level_1.*" />
+          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,11 +291,11 @@
       </method>
     </configuration>
     <configuration name="SameNumberHate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.SameNumberHate" />
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.SameNumberHate" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testok.www.goorm_level_1.*" />
+          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,11 +304,11 @@
       </method>
     </configuration>
     <configuration name="Snake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.Snake" />
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Snake" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testok.www.goorm_level_1.*" />
+          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,20 +344,21 @@
       <workItem from="1567669643230" duration="3391000" />
       <workItem from="1567727006960" duration="7858000" />
       <workItem from="1567986947846" duration="13649000" />
+      <workItem from="1568004831141" duration="1102000" />
+      <workItem from="1568009739000" duration="957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67951000" />
+    <option name="totallyTimeSpent" value="70010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-80" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.26865673" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.2739872" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="5" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
@@ -373,7 +366,7 @@
       <window_info anchor="bottom" id="Spring" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.33013436" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.33013436" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.32917467" />
@@ -400,17 +393,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Birdaeiou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Stream_reg.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Stream_reg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
@@ -420,60 +403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/FindMinValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Minsu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Programmers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/CompliteMARATON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Snake.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Snake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -487,14 +420,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/User.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/ThreeSixNine.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/ThreeSixNine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
@@ -504,28 +437,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/SameNumberHate.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Birdaeiou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#466#475#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/NXNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-301">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/Prices.java">
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/FindMinValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Minsu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/NXNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Prices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Programmers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/Username.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/UsernameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SameNumberHate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

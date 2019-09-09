@@ -1,4 +1,4 @@
-package com.testok.www.goorm_level_1;
+package com.testok.www.goorm_level_1.code;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,10 +15,9 @@ public class Prices {
 
     public static int solution(int[] d, int budget) {
         int answer = 0;
-     /*   IntStream sorted = Arrays.stream(d).sorted();
+     /* IntStream sorted = Arrays.stream(d).sorted();
         sorted.forEach(System.out::println);
-
-*/
+      */
 
         Arrays.sort(d);
         int sum  = 0;

@@ -1,4 +1,4 @@
-package com.testok.www.goorm_level_1;
+package com.testok.www.goorm_level_1.code;
 
 import java.util.HashMap;
 import java.util.stream.Stream;

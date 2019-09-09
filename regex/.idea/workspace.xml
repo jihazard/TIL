@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d13c5938-5d5e-4794-a18d-aed73143089c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../codes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/regex/www/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/regex/www/UsernameValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/regex/www/PasswordValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/regex/www/UsernameValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/0/d/0de47d42f7c8c3713771e64001e913d1c8f4e262" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/0/d/0de47d42f7c8c3713771e64001e913d1c8f4e262" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/2/0/20e229fe7b3bd9c4d08e50e5f0f167a22a8450f8" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/2/0/20e229fe7b3bd9c4d08e50e5f0f167a22a8450f8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/4/a/4a2edb67b8dc4cd9e017fd7d7214df15a944d3b0" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/4/a/4a2edb67b8dc4cd9e017fd7d7214df15a944d3b0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/5/a/5a8f776872070400fce03029ec537cc3ddbc4135" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/5/a/5a8f776872070400fce03029ec537cc3ddbc4135" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/6/6/66265f373f9974211ea493ec54d23bb9974fe39c" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/6/6/66265f373f9974211ea493ec54d23bb9974fe39c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/7/2/7205ea7cd1e514293d8c87479272d68be0e0f936" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/7/2/7205ea7cd1e514293d8c87479272d68be0e0f936" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/8/b/8b1d23a113a4f70595f93a7282c0fe7ed1ccc2de" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/8/b/8b1d23a113a4f70595f93a7282c0fe7ed1ccc2de" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/a/b/abd26b42092b56737ea74ab8b5da3284379acece" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/a/b/abd26b42092b56737ea74ab8b5da3284379acece" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/f/f/ffdbe7354a9eb39e8f5318613187b51b8bb9db9c" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/f/f/ffdbe7354a9eb39e8f5318613187b51b8bb9db9c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/Birdaeiou.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/Birdaeiou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/CompliteMARATON.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/FindMinValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/FindMinValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/Minsu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/Minsu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/NXNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/NXNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/Prices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/Prices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/Programmers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/Programmers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/SameNumberHate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/SameNumberHate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/Stream_reg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/Stream_reg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/ThreeSixNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/ThreeSixNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codes/src/com/testok/www/goorm_level_1/code/User.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/regex/www/UsernameValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/regex/www/PasswordValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/regex/www/PasswordValidatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/regex/www/UsernameValidatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/regex/www/UsernameValidator.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/regex/www/UsernameValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/regex/www/PasswordValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/regex/www/PasswordValidatorTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1462" />
+    <option name="y" value="14" />
+    <option name="width" value="974" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.regex.www" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PasswordValidatorTest">
+    <configuration name="PasswordValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regex.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.regex.www" />
+      <option name="MAIN_CLASS_NAME" value="com.regex.www.PasswordValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordValidatorTest.ValidPasswordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regex.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.regex.www" />
+      <option name="MAIN_CLASS_NAME" value="com.regex.www.PasswordValidatorTest" />
+      <option name="METHOD_NAME" value="ValidPasswordTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsernameValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regex.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.regex.www" />
+      <option name="MAIN_CLASS_NAME" value="com.regex.www.UsernameValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsernameValidatorTest.InvalidUsernameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regex.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.regex.www" />
+      <option name="MAIN_CLASS_NAME" value="com.regex.www.UsernameValidatorTest" />
+      <option name="METHOD_NAME" value="InvalidUsernameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsernameValidatorTest.ValidUsernameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regex.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.regex.www" />
+      <option name="MAIN_CLASS_NAME" value="com.regex.www.UsernameValidatorTest" />
+      <option name="METHOD_NAME" value="ValidUsernameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PasswordValidatorTest" />
+        <item itemvalue="JUnit.PasswordValidatorTest.ValidPasswordTest" />
+        <item itemvalue="JUnit.UsernameValidatorTest" />
+        <item itemvalue="JUnit.UsernameValidatorTest.InvalidUsernameTest" />
+        <item itemvalue="JUnit.UsernameValidatorTest.ValidUsernameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13c5938-5d5e-4794-a18d-aed73143089c" name="Default Changelist" comment="" />
+      <created>1568010695160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568010695160</updated>
+      <workItem from="1568010698793" duration="1545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UsernameValidatorTest_ValidUsernameTest - 2019.09.09 at 15h 37m 31s.xml">
+      <configuration name="UsernameValidatorTest.ValidUsernameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UsernameValidatorTest_ValidUsernameTest - 2019.09.09 at 15h 38m 27s.xml">
+      <configuration name="UsernameValidatorTest.ValidUsernameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UsernameValidatorTest_InvalidUsernameTest - 2019.09.09 at 15h 40m 10s.xml">
+      <configuration name="UsernameValidatorTest.InvalidUsernameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UsernameValidatorTest_InvalidUsernameTest - 2019.09.09 at 15h 46m 47s.xml">
+      <configuration name="UsernameValidatorTest.InvalidUsernameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UsernameValidatorTest - 2019.09.09 at 15h 46m 54s.xml">
+      <configuration name="UsernameValidatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordValidatorTest_ValidPasswordTest - 2019.09.09 at 15h 51m 37s.xml">
+      <configuration name="PasswordValidatorTest.ValidPasswordTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1545000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-80" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="DB Browser" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.32917467" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Spring" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.33013436" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32917467" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/regex/www/UsernameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/regex/www/PasswordValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/regex/www/UsernameValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/regex/www/PasswordValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>regex</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,10 +1,9 @@
-package com.testok.www.goorm_level_1;
+package com.testok.www.goorm_level_1.code;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class Programmers {
     public static void main(String[] args) {

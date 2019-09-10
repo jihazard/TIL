@@ -12,7 +12,10 @@ public class SosuFind {
     public static void main(String[] args) {
         //System.out.println(solution(100));
 
-        System.out.println(solution(10));
+        System.out.println(solution(5));
+        int n=5;
+        long count = IntStream.range(2, n+1).filter(t -> isPrime(t)).count();
+        System.out.println("count => " +count);
     }
 
     public static int solution(int n) {
@@ -25,25 +28,13 @@ public class SosuFind {
         return count;
     }
     public static boolean isPrime(int n) {
-        for (int j = 2; j <= sqrt(n); j++) {
+        for (int j = 2; j <= Math.sqrt(n); j++) {
             if(n%j==0)  return false;
 
         }
         return true;
 
     }
-//    public static Map<Boolean, List<Integer>> partitionPrimes(int n) {
-//        int candidateRoot = (int) Math.sqrt((double) n);
-//        return IntStream.rangeClosed(2,candidateRoot).boxed().filter(x->(x*x)%2==0)
-//                .collect(partitioningBy(candidate -> isPrime(candidate)));
-//    }
-//
-//
-//    public static boolean isPrime(int candidate) {
-//        int candidateRoot = (int) Math.sqrt((double) candidate);
-//        return IntStream.rangeClosed(2, candidateRoot).filter(n-> n % 2 ==0)
-//                .noneMatch(i -> candidate % i == 0);
-//    }
 
 
 

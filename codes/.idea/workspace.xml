@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5471328e-8efa-40a2-a1a6-8bd0e5217b4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/BasicCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SosuFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0de47d42f7c8c3713771e64001e913d1c8f4e262" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20e229fe7b3bd9c4d08e50e5f0f167a22a8450f8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e492f96c2d690ef42d346888a3a3f12f2eb5f06" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f2c5e18cba65dba3300200903c0dc6ef41a5fdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a2edb67b8dc4cd9e017fd7d7214df15a944d3b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a97200b3e5de2ec16f6b5a49b305753172d2c6f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a8f776872070400fce03029ec537cc3ddbc4135" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66265f373f9974211ea493ec54d23bb9974fe39c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/701975a17fad725b0e52bc54bb19e387e32c3f52" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7205ea7cd1e514293d8c87479272d68be0e0f936" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b1d23a113a4f70595f93a7282c0fe7ed1ccc2de" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abd26b42092b56737ea74ab8b5da3284379acece" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffdbe7354a9eb39e8f5318613187b51b8bb9db9c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Birdaeiou.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/CompliteMARATON.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/FindMinValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Minsu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/NXNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Prices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Programmers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/SameNumberHate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Snake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/Stream_reg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/ThreeSixNine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../regex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../regex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SosuFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SosuFind.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SosuFind.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="285">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -404,12 +373,12 @@
       <workItem from="1567986947846" duration="13649000" />
       <workItem from="1568004831141" duration="1102000" />
       <workItem from="1568009739000" duration="957000" />
-      <workItem from="1568081109906" duration="11682000" />
+      <workItem from="1568081109906" duration="12201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81692000" />
+    <option name="totallyTimeSpent" value="82211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-80" width="1936" height="1176" extended-state="6" />
@@ -604,8 +573,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SosuFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

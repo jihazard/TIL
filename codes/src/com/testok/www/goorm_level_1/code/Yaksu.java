@@ -4,7 +4,7 @@ import java.util.stream.IntStream;
 
 public class Yaksu {
     public static void main(String[] args) {
-        System.out.println(solution2Stream(12));
+        System.out.println(solution2Stream(12)); //28
     }
 
     public static int solution(int n) {

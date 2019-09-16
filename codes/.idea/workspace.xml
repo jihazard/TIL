@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5471328e-8efa-40a2-a1a6-8bd0e5217b4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Divide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73323b340aa9729315722b80418ea9b671ddf2b8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73323b340aa9729315722b80418ea9b671ddf2b8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b4a886b5d8e6b218f988d36d215daf5b5479fce" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b4a886b5d8e6b218f988d36d215daf5b5479fce" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c32a6d5125b0eeaf8ea1a0d2d19cbe0e7747c4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c32a6d5125b0eeaf8ea1a0d2d19cbe0e7747c4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9ea65b0de0f83d0befa7b79654ad0990af2c1bc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9ea65b0de0f83d0befa7b79654ad0990af2c1bc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ece560c0616f6f2d03f31ac094fbcf8d2d260c97" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ece560c0616f6f2d03f31ac094fbcf8d2d260c97" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Budget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Password.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/MakeStrangerWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/MakeStrangerWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MakeStrangerWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MakeStrangerWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/Divide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/Divide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,19 +35,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Yaksu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MakeStrangerWord.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
@@ -66,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Divide.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+            <state relative-caret-position="308">
+              <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,10 +61,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SosuFind.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Budget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="76" />
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,21 +73,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Greedy.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="874">
+              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#370#378#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Number.java">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/BasicCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Password.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -195,6 +196,9 @@
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Yaksu.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MakeStrangerWord.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Divide.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Budget.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Password.java" />
       </list>
     </option>
   </component>
@@ -288,9 +292,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Divide">
+  <component name="RunManager" selected="Application.Password">
     <configuration name="BasicCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.BasicCode" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Budget" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompliteMARATON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.CompliteMARATON" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -315,34 +345,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeStrangerWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.MakeStrangerWord" />
-      <module name="codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SosuFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.SosuFind" />
-      <module name="codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testok.www.goorm_level_1.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Yaksu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Yaksu" />
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Password" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -356,11 +360,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Divide" />
-        <item itemvalue="Application.MakeStrangerWord" />
-        <item itemvalue="Application.Yaksu" />
-        <item itemvalue="Application.SosuFind" />
+        <item itemvalue="Application.Password" />
         <item itemvalue="Application.BasicCode" />
+        <item itemvalue="Application.CompliteMARATON" />
+        <item itemvalue="Application.Budget" />
+        <item itemvalue="Application.Divide" />
       </list>
     </recent_temporary>
   </component>
@@ -386,12 +390,12 @@
       <workItem from="1568009739000" duration="957000" />
       <workItem from="1568081109906" duration="14866000" />
       <workItem from="1568160064152" duration="6939000" />
-      <workItem from="1568592507978" duration="6589000" />
+      <workItem from="1568592507978" duration="16826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98404000" />
+    <option name="totallyTimeSpent" value="108641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-80" width="1936" height="1176" extended-state="6" />
@@ -452,16 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/Password.java" />
     <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/Username.java" />
     <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/regex/UsernameTest.java" />
@@ -511,18 +505,6 @@
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/BasicCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -626,10 +608,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Divide.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        <state relative-caret-position="308">
+          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Budget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/CompliteMARATON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#370#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/BasicCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
           </folding>
         </state>
       </provider>

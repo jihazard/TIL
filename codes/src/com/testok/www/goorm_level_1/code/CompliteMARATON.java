@@ -12,7 +12,7 @@ public class CompliteMARATON {
 
 
 
-        Set<String> a = new TreeSet<String>(Arrays.asList(A));
+        Set<String> a = new TreeSet<  >(Arrays.asList(A));
         Set<String> b = new TreeSet<String>(Arrays.asList(B));
 
         List<String> lista = Arrays.asList(A);

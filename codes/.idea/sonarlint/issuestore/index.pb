@@ -23,3 +23,13 @@ g
 7src/com/testok/www/goorm_level_1/code/ThreeSixNine.java,9\b\9b4a886b5d8e6b218f988d36d215daf5b5479fce
 i
 9src/com/testok/www/goorm_level_1/code/SameNumberHate.java,e\c\ece560c0616f6f2d03f31ac094fbcf8d2d260c97
+a
+1src/com/testok/www/goorm_level_1/code/Greedy.java,a\9\a9da4d38a42a1024501208a9a4557720d6803671
+d
+4src/com/testok/www/goorm_level_1/code/BasicCode.java,1\6\16b7cd4ad939aad1b030688f8d916af9321c6eae
+c
+3src/com/testok/www/goorm_level_1/code/SosuFind.java,8\d\8d22e3c99b54ac7d9c36efb7c5029d7f52e2cfe7
+`
+0src/com/testok/www/goorm_level_1/code/Yaksu.java,4\9\49c3a0dc07d4d2c66e5a8f18a5b3eb9fdc95fe8b
+k
+;src/com/testok/www/goorm_level_1/code/MakeStrangerWord.java,a\3\a30b6a087b4bc43cd5831436edb07e90cdd613bb

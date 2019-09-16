@@ -5,7 +5,7 @@ import java.util.stream.IntStream;
 
 public class MakeStrangerWord {
     public static void main(String[] args) {
-        System.out.println(solution("try  hello world"));
+        System.out.println(solution2Stream("try  hello world"));
     }
 
 
@@ -39,14 +39,13 @@ public class MakeStrangerWord {
         String[] s2 = s.split(" ");
         IntStream.range(0, s2.length)
                 .mapToObj(index -> {
-                    s2[index].toCharArray();
+                    char[] chars1 = s2[index].toCharArray();
+                    return s2[index];
                 })
                 .collect(Collectors.joining());
 
-
-
         //System.out.println(s1);
-        return s1;
+        return null;
     }
 
 

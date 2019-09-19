@@ -33,3 +33,9 @@ c
 0src/com/testok/www/goorm_level_1/code/Yaksu.java,4\9\49c3a0dc07d4d2c66e5a8f18a5b3eb9fdc95fe8b
 k
 ;src/com/testok/www/goorm_level_1/code/MakeStrangerWord.java,a\3\a30b6a087b4bc43cd5831436edb07e90cdd613bb
+a
+1src/com/testok/www/goorm_level_1/code/Divide.java,8\4\848d14c0cb0faa1b835403f467b690d7d18c7af4
+a
+1src/com/testok/www/goorm_level_1/code/Budget.java,0\8\085a4877325257d716f84765ba5bd3f471c38b99
+c
+3src/com/testok/www/goorm_level_1/code/Password.java,6\b\6be8ca02978f2c9d0846948f6f28f70e1f04b01c

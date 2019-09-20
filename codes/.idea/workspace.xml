@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5471328e-8efa-40a2-a1a6-8bd0e5217b4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Collatz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyGymSuit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/085a4877325257d716f84765ba5bd3f471c38b99" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/085a4877325257d716f84765ba5bd3f471c38b99" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16b7cd4ad939aad1b030688f8d916af9321c6eae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16b7cd4ad939aad1b030688f8d916af9321c6eae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3358b3bbcb3b4dd0c56ecb7dacf9e3f572960202" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3358b3bbcb3b4dd0c56ecb7dacf9e3f572960202" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6be8ca02978f2c9d0846948f6f28f70e1f04b01c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6be8ca02978f2c9d0846948f6f28f70e1f04b01c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/848d14c0cb0faa1b835403f467b690d7d18c7af4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/848d14c0cb0faa1b835403f467b690d7d18c7af4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a30b6a087b4bc43cd5831436edb07e90cdd613bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a30b6a087b4bc43cd5831436edb07e90cdd613bb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c32a6d5125b0eeaf8ea1a0d2d19cbe0e7747c4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c32a6d5125b0eeaf8ea1a0d2d19cbe0e7747c4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9ea65b0de0f83d0befa7b79654ad0990af2c1bc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9ea65b0de0f83d0befa7b79654ad0990af2c1bc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/GreedyAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/GreedyAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyAlgorithm.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,15 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Password.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/NXNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,14 +88,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Collatz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+            <state relative-caret-position="152">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="9" />
               <folding>
                 <element signature="e#768#769#0" expanded="true" />
                 <element signature="e#784#785#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -202,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyGymSuit.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Collatz.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java" />
       </list>
     </option>
   </component>
@@ -295,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Collatz">
+  <component name="RunManager" selected="Application.SumBetweenTwoNumber">
     <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Collatz" />
       <module name="codes" />
@@ -348,8 +343,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hashade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Hashade" />
+    <configuration name="SumBetweenTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.SumBetweenTwoNumber" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -363,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumBetweenTwoNumber" />
         <item itemvalue="Application.Collatz" />
         <item itemvalue="Application.GreedyGymSuit" />
         <item itemvalue="Application.GreedyAlgorithm" />
         <item itemvalue="Application.FindKim" />
-        <item itemvalue="Application.Hashade" />
       </list>
     </recent_temporary>
   </component>
@@ -397,12 +392,12 @@
       <workItem from="1568678387139" duration="3090000" />
       <workItem from="1568851538362" duration="8155000" />
       <workItem from="1568876839711" duration="3609000" />
-      <workItem from="1568938193729" duration="1391000" />
+      <workItem from="1568938193729" duration="2968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125156000" />
+    <option name="totallyTimeSpent" value="126733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-80" width="1936" height="1176" extended-state="6" />
@@ -701,11 +696,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Collatz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        <state relative-caret-position="152">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="e#768#769#0" expanded="true" />
             <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
           </folding>
         </state>
       </provider>

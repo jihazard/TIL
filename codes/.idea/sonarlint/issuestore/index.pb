@@ -39,3 +39,11 @@ a
 1src/com/testok/www/goorm_level_1/code/Budget.java,0\8\085a4877325257d716f84765ba5bd3f471c38b99
 c
 3src/com/testok/www/goorm_level_1/code/Password.java,6\b\6be8ca02978f2c9d0846948f6f28f70e1f04b01c
+b
+2src/com/testok/www/goorm_level_1/code/Hashade.java,2\9\29a49e8417ab17d3f258b2cdf6933e5a29f9b85a
+b
+2src/com/testok/www/goorm_level_1/code/FindKim.java,6\1\6164ddae19537e1a56af2b575fa87718ad539dee
+j
+:src/com/testok/www/goorm_level_1/code/GreedyAlgorithm.java,9\d\9d2abab5c2c76bc4630cfeb0b9970927087c0dbe
+h
+8src/com/testok/www/goorm_level_1/code/GreedyGymSuit.java,9\1\91d3e87226495e6c67c9d46c88da06b597883888

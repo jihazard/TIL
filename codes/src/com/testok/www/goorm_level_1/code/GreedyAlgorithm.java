@@ -20,7 +20,10 @@ public class GreedyAlgorithm {
     }
 
     public static void getCount(int coin) {
+        System.out.println(price +"//" + coin +"//" + price/coin);
         count += (price / coin);
+
+        System.out.println(price +"//" + (coin * (price / coin) +"//"));
         price = price - (coin * (price / coin));
     }
 }

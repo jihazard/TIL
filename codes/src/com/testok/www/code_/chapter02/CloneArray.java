@@ -1,10 +1,25 @@
 package com.testok.www.code_.chapter02;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class CloneArray {
     public static void main(String[] args) {
-        max();
+        Scanner sc = new Scanner(System.in);
+        System.out.println("요솟수 ==>");
+        int num = sc.nextInt();
+
+        int[] x = new int[num];
+
+        for (int i = 0; i < num ; i++) {
+            System.out.println("x[" + i +"] :" );
+            x[i] = sc.nextInt();
+        }
+        System.out.println(Arrays.toString(x));
+        reverse(x);
+
+        System.out.println("=====역순정렬");
+        System.out.println(Arrays.toString(x));
     }
 
     public static void ex1() {
@@ -35,7 +50,16 @@ public class CloneArray {
 
     }
 
-    public static void reverse() {
+    public static void reverse(int[] a) {
+        for (int i = 0; i < a.length/2 ; i++) {
+            System.out.println(i +"//" +(a.length-i-1));
+            swap(a,i,a.length-i-1);
+        }
+    }
 
+    public static void swap(int[] a, int idx1,int idx2){
+        int t= a[idx1];
+        a[idx1] = a[idx2];
+        a[idx2] = t;
     }
 }

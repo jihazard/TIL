@@ -47,3 +47,15 @@ j
 :src/com/testok/www/goorm_level_1/code/GreedyAlgorithm.java,9\d\9d2abab5c2c76bc4630cfeb0b9970927087c0dbe
 h
 8src/com/testok/www/goorm_level_1/code/GreedyGymSuit.java,9\1\91d3e87226495e6c67c9d46c88da06b597883888
+b
+2src/com/testok/www/goorm_level_1/code/Collatz.java,0\f\0faf29a45a1329d87542952ac3ba1799fa048dd6
+n
+>src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java,9\2\923a8d81f63c8a981bbdf69d5477ac0de2b22dd2
+h
+8src/com/testok/www/goorm_level_1/code/MostBigNumber.java,1\6\162aabc07bdf32830dfb5766af8b0d1b74d0c53a
+h
+8src/com/testok/www/goorm_level_1/code/Combination2_.java,9\7\97757ac14262d9cd740f11040586ffa6d91ce2ca
+f
+6src/com/testok/www/goorm_level_1/code/Combination.java,3\1\3128cc2fc164714da990878d54356eb90acec6eb
+g
+7src/com/testok/www/goorm_level_1/code/Combination3.java,e\6\e6d350401a3554e8a63a3d1ff28a7b44cf04c1ce

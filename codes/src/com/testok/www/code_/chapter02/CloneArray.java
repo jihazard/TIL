@@ -15,10 +15,8 @@ public class CloneArray {
             System.out.println("x[" + i +"] :" );
             x[i] = sc.nextInt();
         }
-        System.out.println(Arrays.toString(x));
-        reverse(x);
-
-        System.out.println("=====역순정렬");
+        //reverse(x);
+        sumof(x);
         System.out.println(Arrays.toString(x));
     }
 
@@ -52,14 +50,28 @@ public class CloneArray {
 
     public static void reverse(int[] a) {
         for (int i = 0; i < a.length/2 ; i++) {
-            System.out.println(i +"//" +(a.length-i-1));
+            System.out.println(Arrays.toString(a));
+            System.out.println("a:" + i+"와 a:" + (a.length-i-1 )+"을 교환합니다.");
             swap(a,i,a.length-i-1);
+            System.out.println(Arrays.toString(a));
         }
+
+        System.out.println("역순정렬완료");
     }
 
     public static void swap(int[] a, int idx1,int idx2){
         int t= a[idx1];
         a[idx1] = a[idx2];
         a[idx2] = t;
+    }
+
+    public static int sumof(int[] a){
+        int sum = 0;
+        for (int i = 0; i < a.length; i++) {
+            sum += a[i];
+            System.out.println("a["+i+"] 의 값 " + a[i]+"를 더합니다. sum =>" + sum);
+
+        }
+        return sum;
     }
 }

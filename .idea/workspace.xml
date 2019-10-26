@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90fb8e11-4b6c-41c4-8211-8f624cf38747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Birdaeiou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/CompliteMARATON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/FindMinValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Minsu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Programmers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Stream_reg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/ThreeSixNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/refactoring/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,51 +13,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/FindMinValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Birdaeiou.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Snake.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Minsu.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,156 +29,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main4.java" />
-        <option value="$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main2.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/Strategy_pattern.md" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/Calculator.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/Item.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Item.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Calculator.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/DiscountStrategy.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/service/FirstGuestDiscountStrategy.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/service/NonFreshItemDiscountStrategy.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Calculator.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Item.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Calulator.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Main.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/CalulatorTest.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Auth.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/AuthException.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Authenticator.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/DbAuth.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/DoorStatus.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/MotorStatus.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Door.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/HyundaiMotor.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Direction.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/State.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/VendingMachine.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/NoCoinState.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Product.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/PersonInfo.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/builderPattern.md" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Person.java" />
-        <option value="$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Main.java" />
-        <option value="$PROJECT_DIR$/refactoring/pom.xml" />
-        <option value="$PROJECT_DIR$/refactoring/src/main/java/removeControlFlag/RemoveControlFlag.java" />
-        <option value="$PROJECT_DIR$/refactoring/src/main/java/removeControlFlag/RemoveControlFlag.md" />
-        <option value="$PROJECT_DIR$/refactoring/src/main/java/removeControlFlag/removeControlFlag/RemoveControlFlag.md" />
-        <option value="$PROJECT_DIR$/MD/removeControlFlag/removeControlFlag/RemoveControlFlag.md" />
-        <option value="$PROJECT_DIR$/MD/removeControlFlag/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" />
-        <option value="$PROJECT_DIR$/MD/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" />
-        <option value="$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md" />
-        <option value="$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/Person.java" />
-        <option value="$PROJECT_DIR$/refactoring/src/main/java/Employee.java" />
-        <option value="$PROJECT_DIR$/refactoring/src/main/java/EmployeeType.java" />
-        <option value="$PROJECT_DIR$/MD/AOP/aop1.md" />
-        <option value="$PROJECT_DIR$/MD/JS/비동기처리/README.MD" />
-        <option value="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/FindMinValue.java" />
-        <option value="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Birdaeiou.java" />
-        <option value="$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Snake.java" />
-      </list>
-    </option>
-  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1462" />
-    <option name="y" value="14" />
-    <option name="width" value="974" />
-    <option name="height" value="1043" />
-  </component>
+  <component name="ProjectId" id="1Sjip7AiYZWkYuTiEMJj6ff9fya" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
-              <item name="study" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TIL" type="58d84e3e:PackageViewProjectNode" />
-              <item name="study" type="616d4139:PackageViewModuleNode" />
-              <item name="DesignPattern" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="testok" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="testok" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="testok" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="goorm_level_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -257,7 +57,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -463,137 +263,26 @@
       <workItem from="1567490317655" duration="613000" />
       <workItem from="1567640931224" duration="2407000" />
       <workItem from="1567669488696" duration="1348000" />
+      <workItem from="1572083588062" duration="171000" />
+      <workItem from="1572083808999" duration="127000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120710000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-1928" y="-80" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="DB Browser" order="8" />
-      <window_info anchor="bottom" id="CheckStyle" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49947917" weight="0.2931596" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19577736" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.2981132" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3264151" />
-      <window_info anchor="bottom" id="DB Execution Console" order="13" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SonarLint" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Key Promoter X" order="9" />
-      <window_info anchor="right" id="Codota" order="10" />
-      <window_info anchor="right" id="SciView" order="11" />
-      <window_info anchor="right" id="Maven" order="12" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main2.java" />
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main3.java" />
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/BigCharToSmallChar/Main4.java" />
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_19_base/Main.java" />
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main.java" />
-    <entry file="file://$PROJECT_DIR$/java_Study/src/algo/_15_gugudan/Main2.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/DiscountStrategy.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/FirstGuestDiscountStrategy.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/service/NonFreshItemDiscountStrategy.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Item.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/Strategy_pattern전략패턴.md" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Item.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Main.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/ExampleCode/finalCode/CalulatorTest.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Auth.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/AuthException.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/Authenticator.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/DbAuth.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/DoorStatus.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/MotorStatus.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Door.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/Direction.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/TemplateMethodPattern_ExampleCode/otherExampleCode/HyundaiMotor.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/VendingMachine.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/State.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StatePattern_ExampleCode/NoCoinState.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/PersonInfo.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/builderPattern.md" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Person.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Product.java" />
-    <entry file="file://$PROJECT_DIR$/MD/removeControlFlag/RemoveControlFlag.java" />
-    <entry file="file://$PROJECT_DIR$/MD/removeControlFlag/removeControlFlag/RemoveControlFlag.java" />
-    <entry file="file://$PROJECT_DIR$/MD/Replace ConditionalwithPolymorphism/Person.java" />
-    <entry file="file://$PROJECT_DIR$/refactoring/src/main/java/Employee.java" />
-    <entry file="file://$PROJECT_DIR$/refactoring/src/main/java/EmployeeType.java" />
-    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/removeControlFlag/RemoveControlFlag.md" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Builder.java" />
-    <entry file="file://$PROJECT_DIR$/MD/JS/비동기처리/README.MD" />
-    <entry file="file://$PROJECT_DIR$/MD/AOP/aop1.md" />
-    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/Replace ConditionalwithPolymorphism/ReplaceConditionalWithPolymorphism.md" />
-    <entry file="file://$PROJECT_DIR$/MD/REFACTORING/ReplaceNEstedConditonalwithGuardClauses/ReplaceNestedConditionalwithGuardClauses.md" />
-    <entry file="file://$PROJECT_DIR$/refactoring/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/BuilderPattern/Main.java" />
-    <entry file="file://$PROJECT_DIR$/study/src/DesignPattern/StrategyPattern_ExampleCode/finalCode/Calulator.java" />
-    <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/FindMinValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Minsu.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Birdaeiou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codes/src/com/testok/www/goorm_level_1/Snake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>

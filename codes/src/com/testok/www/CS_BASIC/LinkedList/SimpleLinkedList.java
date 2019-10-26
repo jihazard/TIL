@@ -1,4 +1,4 @@
-package com.testok.www.CS_BASIC;
+package com.testok.www.CS_BASIC.LinkedList;
 
 public class SimpleLinkedList<E> {
     private static class Element<E> {

@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5471328e-8efa-40a2-a1a6-8bd0e5217b4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination2_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MostBigNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codes/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,51 +36,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/NXNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Hashade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="988">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/FindKim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyGymSuit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="618">
@@ -101,17 +60,60 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="76">
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#474#475#0" expanded="true" />
                 <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
                 <element signature="e#681#682#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MostBigNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="38" column="63" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-95">
+              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination2_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -197,6 +199,10 @@
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/GreedyGymSuit.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Collatz.java" />
         <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MostBigNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination2_.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination.java" />
+        <option value="$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination3.java" />
       </list>
     </option>
   </component>
@@ -290,9 +296,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumBetweenTwoNumber">
-    <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Collatz" />
+  <component name="RunManager" selected="Application.Combination3">
+    <configuration name="Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Combination" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -304,8 +310,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindKim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.FindKim" />
+    <configuration name="Combination2_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Combination2_" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -317,8 +323,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.GreedyAlgorithm" />
+    <configuration name="Combination3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.Combination3" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -330,8 +336,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyGymSuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.GreedyGymSuit" />
+    <configuration name="MostBigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testok.www.goorm_level_1.code.MostBigNumber" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -358,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Combination3" />
+        <item itemvalue="Application.Combination" />
+        <item itemvalue="Application.Combination2_" />
+        <item itemvalue="Application.MostBigNumber" />
         <item itemvalue="Application.SumBetweenTwoNumber" />
-        <item itemvalue="Application.Collatz" />
-        <item itemvalue="Application.GreedyGymSuit" />
-        <item itemvalue="Application.GreedyAlgorithm" />
-        <item itemvalue="Application.FindKim" />
       </list>
     </recent_temporary>
   </component>
@@ -392,12 +398,12 @@
       <workItem from="1568678387139" duration="3090000" />
       <workItem from="1568851538362" duration="8155000" />
       <workItem from="1568876839711" duration="3609000" />
-      <workItem from="1568938193729" duration="2968000" />
+      <workItem from="1568938193729" duration="8603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126733000" />
+    <option name="totallyTimeSpent" value="132368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-80" width="1936" height="1176" extended-state="6" />
@@ -428,7 +434,7 @@
       <window_info anchor="bottom" id="SonarLint" order="16" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Database" order="2" weight="0.11727079" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.11727079" />
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
@@ -707,14 +713,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/SumBetweenTwoNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="76">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#474#475#0" expanded="true" />
             <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
             <element signature="e#681#682#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/MostBigNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="38" column="63" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination2_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/testok/www/goorm_level_1/code/Combination3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>

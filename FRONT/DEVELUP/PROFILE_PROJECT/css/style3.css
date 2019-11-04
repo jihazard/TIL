@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  .header{
+      background-color: midnightblue;
+      padding: 20px;
+      left: auto;
+  }
+
+  .header_logo {
+      padding : 20px 20px;
+      background-color: white;
+  }
+  .headermenu a {
+      margin-left: 20px;
+      color : gray;
+    
+    }
+  .headermenu a:hover{
+    color : white;
+  }
+
+  .searchField {
+      margin-left: 50px;
+  }
+
+  .searchField input {
+    border: 0;
+
+    outline: 0;
+    
+    height: 34px;
+    
+    color:
+    #333;
+  }
+
+  .login button {
+      
+      padding: 10px;
+      margin-left: 30px;
+  }
+   .sign button {
+    padding: 10px;
+    margin-left: 5px;
+   }

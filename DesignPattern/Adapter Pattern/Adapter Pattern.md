@@ -40,7 +40,7 @@ public class TurkeyAdapter implements Duck {
 
 	public TurkeyAdapter(Turkey turkey) {
 		this.turkey = turkey;
-	}
+	} 
 
 	@Override
 	public void quack() {

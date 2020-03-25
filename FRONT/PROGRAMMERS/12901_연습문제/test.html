@@ -22,10 +22,7 @@
 // 5	24	TUE
 
 function solution(a, b) {
-    var answer = '';
-    var week = ['SUN', 'MON', 'THU', 'WEN', 'THR', 'FRI', 'SAT'];
-    var date = new Date("2016-"+ a + "-" + b).getDay();
-    return week[date];
+    return new Date("2016-"+ a + "-" + b).toString().slice(0, 3).toUpperCase();
 }
 
 function getDayName(a,b){

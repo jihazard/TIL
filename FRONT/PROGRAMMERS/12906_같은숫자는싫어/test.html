@@ -7,7 +7,7 @@
 </head>
 <script>
 
-function solution(arr)
+function solution1(arr)
 {
     var answer = [];
     var currentNumber;
@@ -17,10 +17,19 @@ function solution(arr)
         }
         currentNumber = number;
     })
-    
+
     console.log('Hello Javascript')
     
     return answer;
+}
+
+function solution(arr)
+{
+    var a = arr.filter((val,index) => {
+
+        return val != arr[index+1]
+    });
+    return a 
 }
 
 function init(){

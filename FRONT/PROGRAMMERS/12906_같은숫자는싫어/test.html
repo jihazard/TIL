@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+
+function solution(arr)
+{
+    var answer = [];
+    var currentNumber;
+    arr.filter(number => {
+        if(number != currentNumber){
+            answer.push(number)
+        }
+        currentNumber = number;
+    })
+    
+    console.log('Hello Javascript')
+    
+    return answer;
+}
+
+function init(){
+   // [1,1,3,3,0,1,1]	[1,3,0,1]
+   // [4,4,4,3,3]	[4,3]
+    var arr = [4,4,4,3,3]
+    var value =  solution(arr);
+    console.log("result ===> " , value)
+}
+
+init();
+</script>
+<body>
+    
+</body>
+</html>

@@ -34,7 +34,9 @@
 
 function solution(array, commands) {
    return commands.map((command,index) => {
+      //console.log("slice " , array.slice(2-1,5))
       return array.filter((n,index)=> index >= command[0]-1 && index <= command[1]-1).sort((a,b) => a-b )[command[2]-1]
+        
      })
 }
 

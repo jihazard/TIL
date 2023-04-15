@@ -30,14 +30,14 @@ coverY: 0
 
 ```
 //컴포넌트
-public abstract class Display {
+public abstract class road.Display {
     public abstract void draw();
 }
 ```
 
 ```
 //concrete 컴포넌트
-public class RoadDisplay extends Display{
+public class road.RoadDisplay extends road.Display{
     public void draw() {
         System.out.println("기본 도로 표시");
     }
@@ -46,10 +46,10 @@ public class RoadDisplay extends Display{
 
 ```
 // 데코레이터
-public abstract class DisplayDecorator extends Display{
-    private Display decorator;
+public abstract class road.DisplayDecorator extends road.Display{
+    private road.Display decorator;
 
-    public DisplayDecorator(Display decorator) {
+    public road.DisplayDecorator(road.Display decorator) {
         this.decorator = decorator;
     }
 
@@ -62,9 +62,9 @@ public abstract class DisplayDecorator extends Display{
 
 ```
 // concrete 데코레이터
-public  class LaneDisplayDecorator extends DisplayDecorator{
+public  class road.LaneDisplayDecorator extends road.DisplayDecorator{
 
-    public LaneDisplayDecorator(Display decorator) {
+    public road.LaneDisplayDecorator(road.Display decorator) {
         super(decorator);
     }
 
@@ -83,12 +83,12 @@ public  class LaneDisplayDecorator extends DisplayDecorator{
 ```
 // 실행코드
 
-public class Client {
+public class road.Client {
     public static void main(String[] args) {
-        Display road = new RoadDisplay();
+        road.Display road = new road.RoadDisplay();
         road.draw();
 
-        Display roadWithLine = new LaneDisplayDecorator(new RoadDisplay());
+        road.Display roadWithLine = new road.LaneDisplayDecorator(new road.RoadDisplay());
         roadWithLine.draw();
 
 

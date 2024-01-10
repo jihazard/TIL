@@ -18,13 +18,19 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Back1152 {
-
 	public static void main(String args[]) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String str = br.readLine();
-		String[] arr = str.split(" ");
-		System.out.println(arr.length);
 
+		String[] arr = str.split(" ");
+		int count = 0;
+		for(String st : arr ) {
+			if(null == st || st.equals("")) {
+				continue;
+			}
+			count++;
+		}
+		System.out.println(count);
 
 	}
 }

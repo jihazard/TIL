@@ -26,15 +26,16 @@ public class Back2444 {
 			String empty = " ".repeat(count2);
 			int center = count2 / 2;
 			for (int j = 0; j < empty.toCharArray().length; j++) {
-				if(j >= center - i && j <= center + i) {
+
 					empty = empty.substring(0, j) + "*" + empty.substring(j+1);
-				}
+
 			}
-			
+
 			for(char ch : empty.toCharArray()) {
 				System.out.print(ch);
 			}
-			System.out.println("center : " + center);
+			System.out.println("");
+			//System.out.println("center : " + center);
 			//empty.charAt( count2 / 2);
 
 			//1 3 5 7 9

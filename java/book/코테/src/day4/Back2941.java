@@ -37,31 +37,14 @@ public class Back2941 {
 
 		String cro = "c= c- dz= d- lj nj s= z=";
 		String[] croArr = cro.split(" ");
-		String input = "c=dc=";
-		int count = 0;
-		String temp = "";
-		StringBuilder builder = new StringBuilder();
-		for (int i = 1; i < input.length() ; i++) {
-			String current = input.charAt(i)+"";
-			String front = input.charAt(i - 1)+"";
-			builder.append(current);
-			System.out.println(temp);
-			for (int j = 0; j < croArr.length; j++) {
-				String wd = front + current;
-				System.out.println("wd : " + wd + " : " + croArr[j]);
-				if(wd.equals(croArr[j])) {
-					
-					count++;
-					temp = "";
-					break;
-				}
 
-			}
-			System.out.println("current : " + front + " : " + current);
-			count++;
+		String input = br.readLine();
 
+		for (int i = 0; i < croArr.length; i++) {
+			if (input.contains(croArr[i]))
+				input = input.replace(croArr[i], "*");
 		}
-		System.out.println(count);
+		System.out.println(input.length());
 	}
 }
 

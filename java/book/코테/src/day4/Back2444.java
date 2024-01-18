@@ -21,26 +21,39 @@ public class Back2444 {
 	public static void main(String args[]) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int count = Integer.parseInt(br.readLine());
-		int count2 = 2 * count - 1;
-		for (int i = 0; i < count2; i++) {
-			String empty = " ".repeat(count2);
-			int center = count2 / 2;
-			for (int j = 0; j < empty.toCharArray().length; j++) {
+		int center = 2 * count - 1;
+		StringBuilder builder = new StringBuilder();
+		for( int i = 0; i < center; i++) {
+			if(i < count) {
+				for(int j = 0; j < center; j++) {
+					if(j < count - i - 1 || j > count + i - 1) {
+						//System.out.println("j < count - i - 1: " + (j  +" " + (count - i - 1)) + " j > count + i - 1 : " + (j +" "+ (count + i - 1)));
+						builder.append(" ");
+						//System.out.print(" ");
+					} else {
+						builder.append("*");
+						//System.out.print("*");
+					}
+				}
+			}else {
+				for(int j = 0; j < center; j++) {
 
-					empty = empty.substring(0, j) + "*" + empty.substring(j+1);
-
+					if(j < i - count + 1 || j > center - i + count - 2) {
+						//System.out.println("j < i - count + 1 : " + (j  + " " + (i - count + 1)) + " j > center - i + count - 2 : " + (j +" " + (center - i + count - 2)));
+						builder.append(" ");
+						//System.out.print(" ");
+					} else {
+						builder.append("*");
+						//System.out.print("*");
+					}
+				}
 			}
 
-			for(char ch : empty.toCharArray()) {
-				System.out.print(ch);
-			}
-			System.out.println("");
-			//System.out.println("center : " + center);
-			//empty.charAt( count2 / 2);
-
-			//1 3 5 7 9
+			//System.out.println("");
+			builder.append("\n");
 		}
 
+		System.out.println(builder.toString());
 	}
 }
 

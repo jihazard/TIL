@@ -9,7 +9,7 @@
   <body>
     <div id="app">
       <div>
-        <label for="goal">Goal</label>
+        <label for="goal">Goal {{ count }}</label>
         <input type="text" id="goal" v-model="enteredValue"/>
         <button v-on:click="addGoal">Add Goal</button>
       </div>

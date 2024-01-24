@@ -208,3 +208,5 @@ courseGoalA: "<H1>Finish the course and learn Vue!</H1>",
 
   app.mount("#events");
   ```
+
+4. 양방향 이벤트 바인딩

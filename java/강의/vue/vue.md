@@ -135,8 +135,8 @@ courseGoalA: "<H1>Finish the course and learn Vue!</H1>",
    ```javascript
    <section id="events">
    	<h2>Events in Action</h2>
-   	<button v-on:click="add">Add</button>
-   	<button v-on:click="reduce">Remove</button>
+   	<button v-on:click="add(5)">Add</button>
+   	<button v-on:click="reduce(1)">Remove</button>
    	<p>Result: {{ counter }}</p>
    </section>;
 
@@ -157,3 +157,54 @@ courseGoalA: "<H1>Finish the course and learn Vue!</H1>",
    });
    app.mount("#events");
    ```
+
+- v-on: 이벤트의 확장
+
+  - v-on:click.right, left, middle ... v-on:submit.prevent.. , v-on:keyup .. v-on:keyup.enter, v-on:keypu.shift...
+
+- event 객체를 이용한 데이터 이벤트 바인딩
+
+  - input에 타이핑 되는 텍스트를 실시간으로 출력 해야할 때 javascript의 event 객체를 vue에서도 사용
+
+  ```javascript
+  <section id="events">
+  	<h2>Events in Action</h2>
+  	<button v-on:click="add(5)">Add</button>
+  	<button v-on:click="reduce(1)">Remove</button>
+  	<p>Result: {{ counter }}</p>
+  	//1. vue에서 javascript의 event객체를 이용하여 데이터에 접근
+  	<input type="text" v-on:input="setName" />
+  	//2. vue에서 제공하는 event객체를 이용하여 데이터에 접근 파라미터를 전달해야
+  	//할때 $event 해당 예약어를 이용하여 이벤트를 method로 전달
+  	<input type="text" v-on:input="setName($event, 'yoon!')" />
+  	<p>my name is : {{ name }}</p>
+  </section>;
+
+  const app = Vue.createApp({
+  	data() {
+  		return {
+  			counter: 0,
+  			name: "",
+  		};
+  	},
+  	methods: {
+  		add(num) {
+  			this.counter = this.counter + num;
+  		},
+  		reduce(num) {
+  			this.counter = this.counter - num;
+  		},
+  		//1. vue에서 javascript의 event객체를 이요하여 데이터에 접근
+  		setName() {
+  			this.name = event.target.value;
+  		},
+  		//2. vue에서 제공하는 event객체를 이용하여 데이터에 접근 파라미터를 전달해야
+  		//할때 $event 해당 예약어를 이용하여 이벤트를 method로 전달
+  		setName(event, lastName) {
+  			this.name = event.target.value + " " + lastName;
+  		},
+  	},
+  });
+
+  app.mount("#events");
+  ```

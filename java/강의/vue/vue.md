@@ -83,7 +83,7 @@
    vue.mount("#selector");
    ```
 
-2. 보간법, v-bind
+2. 보간법, v-bind 등 데이터 바인딩
 
    - 보간법에 쉽게 변수를 바인딩 가능함 등록한 메소드도 {{ courseGoal() }} 호출 가능함
 
@@ -97,8 +97,6 @@
    	<p>Learn more <a v-bind:href="vueLink">about vue</a></p>
    </section>
    ```
-
-3. 메서드
 
    ```javascript
    const vue = Vue.createApp({
@@ -117,9 +115,9 @@
    vue.mount("#selector");
    ```
 
-4. v-html
+- v-html
 
-- 데이터에 html 코드가 포함되어 있을 때 html을 표현하기 위해 사용함. 다만 보안에 취약하기 때문에 기본적으로 사용하지 않고 필요한 상황에만 사용해야함
+  - 데이터에 html 코드가 포함되어 있을 때 html을 표현하기 위해 사용함. 다만 보안에 취약하기 때문에 기본적으로 사용하지 않고 필요한 상황에만 사용해야함
 
 ```javascript
 //.... 생략
@@ -130,3 +128,32 @@ courseGoalA: "<H1>Finish the course and learn Vue!</H1>",
 		<p v-html="outputGoal()"></p>
 	);
 ```
+
+3. v-on: 이벤트 바인딩
+   v-on: 을 통해 javascript의 이벤트 액션을 바인딩 가능 (ex v-on:click, v-on:mouseEvent .. )
+
+   ```javascript
+   <section id="events">
+   	<h2>Events in Action</h2>
+   	<button v-on:click="add">Add</button>
+   	<button v-on:click="reduce">Remove</button>
+   	<p>Result: {{ counter }}</p>
+   </section>;
+
+   const app = Vue.createApp({
+   	data() {
+   		return {
+   			counter: 0,
+   		};
+   	},
+   	methods: {
+   		add() {
+   			this.counter++;
+   		},
+   		reduce() {
+   			this.counter--;
+   		},
+   	},
+   });
+   app.mount("#events");
+   ```

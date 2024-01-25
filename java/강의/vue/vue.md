@@ -261,3 +261,4 @@ const vue = Vue.createApp({
 	},
 }).mount("#assignment");
 ```
+ 6. 축약어 v-on : @:click, v-bind : :href, v-model : v-model

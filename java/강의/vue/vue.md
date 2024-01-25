@@ -209,4 +209,55 @@ courseGoalA: "<H1>Finish the course and learn Vue!</H1>",
   app.mount("#events");
   ```
 
-4. 양방향 이벤트 바인딩
+4. 양방향 이벤트 바인딩 v-model
+
+   - v-model == v-bind:value v-on:input의 축약어
+
+5. computed 연산프로퍼티 vs watcher (감시자) vs methods
+
+- computed
+  동적값을 출력하는데 핵심 기능인 연산 프로퍼티
+  프로퍼티기 때문에 변수명처럼 사용해아함
+  의존하는 변수를 사용하는 경우 연산프로퍼티를 사용해야함 method는 랜더링 주기 때문에 전체가 리랜더링 되지만 연산 프로퍼티는 의존하는 변수가 변경될 때만 작동을 함
+- 감시자(watcher)
+  변수의 변화를 감지함 computed 대안으로 사용가능
+  변수 값의 변화 및 연산을 감지 할때 유용하게 사용됨
+  항상 초기화 되지 않는 경우
+  타이머를 사용해서 초기화하거나 특정 데이터의 값을 체크해야할때
+
+```javascript
+const vue = Vue.createApp({
+	data() {
+		return {
+			number: 0,
+		};
+	},
+	//감시자
+	watch: {
+		result() {
+			const that = this;
+			setTimeout(() => {
+				that.number = 0;
+				console.log("초기화....");
+			}, 5000);
+		},
+	},
+	//연산 프로퍼티
+	computed: {
+		result() {
+			if (this.number < 37) {
+				return "Not there yet";
+			} else {
+				return "Too much!";
+			}
+		},
+	},
+	//메소드
+	methods: {
+		add(num) {
+			this.number = this.number + num;
+			console.log(this.number);
+		},
+	},
+}).mount("#assignment");
+```

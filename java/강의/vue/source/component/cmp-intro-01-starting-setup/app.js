@@ -19,10 +19,10 @@ const app = Vue.createApp({
 
 app.component("mini-component", {
 	template: `
-		<li v-show=toggleShow>
+		<li>
 					<h2>{{ friend.name }}</h2>
 					<button @click="toggleShowEvent">Show Details</button>
-					<ul>
+					<ul v-show=toggleShow>
 						<li><strong>Phone:</strong> {{ friend.phone }}</li>
 						<li><strong>Email:</strong> {{ friend.email }}</li>
 					</ul>
@@ -39,8 +39,9 @@ app.component("mini-component", {
 		};
 	},
 	methods: {
-		toggleShowEvent() {
-			this.toggleShow = !this.toggleShow;
+		toggleFavoriteStatus(id) {
+			const friendIndex = this.friends.findIndex((friend) => friend.id === id);
+			friendIndex.isFavorite = !friendIndex.isFavorite;
 		},
 	},
 });

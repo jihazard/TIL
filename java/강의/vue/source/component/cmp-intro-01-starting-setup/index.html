@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Vue Basics</title>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap"
+			rel="stylesheet" />
+		<link rel="stylesheet" href="styles.css" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script src="app.js" defer></script>
+	</head>
+	<body>
+		<header>
+			<h1>FriendList</h1>
+		</header>
+		<section id="app">
+			<ul>
+				<!-- <li v-for="fri in friends" :key="name">
+					<h2>{{ fri.name }}</h2>
+					<button>Show Details</button>
+					<ul>
+						<li><strong>Phone:</strong> {{ fri.phone }}</li>
+						<li><strong>Email:</strong> {{ fri.email }}</li>
+					</ul>
+				</li> -->
+				<mini-component></mini-component>
+				<mini-component></mini-component>
+			</ul>
+		</section>
+	</body>
+</html>

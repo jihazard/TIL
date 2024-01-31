@@ -1,6 +1,6 @@
 # VUE.JS
 
-### 1. 렌더링 조건식 v-if
+## 1. 렌더링 조건식 v-if
 
 - javascript 의 조건식과 동일한 형태의 조건식을 줄수있음. v-if , v-else, v-else-if
 
@@ -10,7 +10,7 @@
 
 - 일반적인 상태에서는 v-if사용하고 토글등 show/hide요소가 필요한 경우 v-show를 사용
 
-### 2. v-for
+### v-for
 
 - vue의 dom 생성방식
 
@@ -24,3 +24,28 @@
 	</li>
 </ul>
 ```
+
+### template
+
+### ref
+
+- 이벤트가 발생할 때만 렌더링
+
+```html
+<input type="text" ref="userText" />
+```
+
+```javascript
+this.$refs.userText.value;
+```
+
+### VUE 가 DOM 을 업데이트하는 방법
+
+- Virtual DOM을 이용하여 기존 DOM과 새로운 DOM을 비교하여 변경된 부분만을 랜더링 하는방식을 이용
+
+### 라이프 사이클 실습
+
+## 2. 컴포넌트
+
+    * 컴포넌트 생성방법
+    - app.component("-를 포함한 식별자", {options})

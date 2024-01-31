@@ -1,0 +1,41 @@
+const app = Vue.createApp({
+	data() {
+		return {
+			friends: [
+				{
+					name: "yoon",
+					phone: "111111",
+					email: "1111@naver.com",
+				},
+				{
+					name: "kim",
+					phone: "22222",
+					email: "22222@naver.com",
+				},
+			],
+		};
+	},
+}).mount("#app");
+
+
+app.components('mini-component', {
+	template : `
+		<li>
+					<h2>{{ fri.name }}</h2>
+					<button>Show Details</button>
+					<ul>
+						<li><strong>Phone:</strong> {{ fri.phone }}</li>
+						<li><strong>Email:</strong> {{ fri.email }}</li>
+					</ul>
+		</li>
+	`,
+	data() {
+		return {
+			friend : {
+					name: "yoon",
+					phone: "111111",
+					email: "1111@naver.com",
+			},
+		}
+	}
+});
